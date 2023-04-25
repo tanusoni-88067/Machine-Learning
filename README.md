@@ -9,8 +9,7 @@ from a .CSV file. (use enjoysport.csv)
 6. Implement titanic survival prediction using Naive Bayes algorithm.
 7. Predict f a person would buy life insurance based on his age using logistic regression.  (insurance_data.csv)
 8. Implement Clustering with k-means.
-9. Implement neural network to recognise the digits.
-10. Implement neural network to recognise hand writen digits.
-11. Implement K-means clustring.
-12. Implement decision tree using ID3 algorithm.
-13. Implement k- fold cross valudation technique.
+9. Implement neural network to recognise hand writen digits.
+10. Implement K-means clustring.
+11. Implement decision tree using ID3 algorithm.
+12. Implement k- fold cross valudation technique.
